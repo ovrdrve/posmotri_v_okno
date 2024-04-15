@@ -217,6 +217,7 @@ ol {
   font-weight: 700;
   color: #ffffff;
   align-self: end;
+  cursor: pointer;
 }
 
 .search-form__submit-button {
