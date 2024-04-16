@@ -177,6 +177,7 @@ ol {
 .search-form__fieldset-title {
   font-weight: 400;
   font-size: 18px;
+  line-height: 1.2;
   cursor: default;
 }
 
@@ -214,6 +215,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 400;
   font-size: 18px;
+  line-height: 1.2;
   background-color: transparent;
   cursor: pointer;
   appearance: none;
@@ -226,6 +228,7 @@ ol {
   font-family: "Fira Sans Condensed", sans-serif;
   font-weight: 700;
   font-size: 18px;
+  line-height: 1.2;
   background-color: transparent;
   cursor: pointer;
   appearance: none;
